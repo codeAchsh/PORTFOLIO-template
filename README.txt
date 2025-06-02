@@ -29,7 +29,7 @@ HTML/CSSを学び始めたばかりの方
 /portfolio-template/
 ├── index.html
 ├── style.css
-├── script.js
+├── javascript.js
 └── images/（カラーサンプル、画僧サンプル）
 【使用方法】
 任意のエディタ（VS Codeなど）で index.html を開く
