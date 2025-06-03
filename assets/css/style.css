@@ -590,13 +590,13 @@
         }
         .about-me p{
             width: 100%;
-            top:80px;
+            top:100px;
             left: 0;
         }
         .about-me a{
             width: 80%;
             height: 50px;
-            top: 120px;
+            top: 140px;
             left: 20%;
             word-wrap: break-word;
         }
